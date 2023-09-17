@@ -65,12 +65,12 @@ li {
 
 /* My Work Page */
 .work-header {
-    background-color: #0062ff;
+    background-color: #3498db;
     color: #fff;
 }
 
 .work-container {
-    background-color: #0062ff; /* Red background */
+    background-color: #3498db; /* Red background */
 }
 
 .download-button {
